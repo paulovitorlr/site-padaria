@@ -1,0 +1,15 @@
+footer{
+    background-color: blue;
+    margin-top: 100px;
+}
+footer section img#nossa-historia{
+ width: 50%;
+ margin-left: 100px;
+}
+footer section img#encomendas{
+ width: 60%;
+}
+footer section img#eventos{
+ width: 70%;
+
+}

@@ -1,6 +1,7 @@
 /*import das paginas*/
 @import "/assets/css/header.css";
 @import "/assets/css/main.css";
+@import "/assets/css/footer.css";
 
 /*resetando o css*/
 *{
