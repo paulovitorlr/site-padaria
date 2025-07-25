@@ -1,0 +1,10 @@
+main{
+
+  width: 1500px;
+  height: 700px;
+}
+
+main section img{
+    width: 1000px;
+    margin: 0 auto ;
+}

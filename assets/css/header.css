@@ -1,0 +1,65 @@
+header{
+    background-color: brown;
+    height: 70px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    
+     
+}
+
+
+.row{
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    align-items: center;   
+}
+
+
+.menu{
+    display: flex;
+    background-color: aqua;
+    height: 100%;
+    align-items: center;
+
+}
+.menu a{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+
+.social{
+    height: 100%;
+    display:flex;
+    align-items: center;
+   
+}
+
+.social img{
+    width: 35px;
+    margin-right: 30px;
+    margin-left: 15px;
+}
+
+
+
+.social p a{
+    margin-right: 30px;
+    margin-left: 15px;
+    background-color: transparent;
+    border: 2px solid black;
+    padding: 15px;
+}
+
+.logotipo img{
+    width: 55px;
+    margin-left: 100px;
+    
+}
+
+

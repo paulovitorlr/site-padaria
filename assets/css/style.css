@@ -1,0 +1,14 @@
+/*import das paginas*/
+@import "/assets/css/header.css";
+@import "/assets/css/main.css";
+
+/*resetando o css*/
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%; 
+    vertical-align: baseline;
+    text-decoration: none;
+    list-style: none;
+}
